@@ -12,7 +12,7 @@ https://www.facebook.com/volodimir.ackiv.697856/posts/pfbid02D79jdjwbMtUNqsNwEfZ
 
 Тому так, певна цензура тут була б доречною. Не для приниження, а щоб відрізняти знання від шуму.
 
-![image](.attachments/56e1d58f55ac5b9bfd22c274ee3592264b811601.jpg) 
+![image](../.attachments/56e1d58f55ac5b9bfd22c274ee3592264b811601.jpg) 
 ***
 ## Коментарі
 Валентин Добровольський
