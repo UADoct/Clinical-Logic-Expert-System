@@ -1,23 +1,24 @@
-# Digital Hygiene & Systemic Medicine: Case Studies and Analysis
+# Clinical-Logic Expert System (CLES)
 
-Цей репозиторій є цифровим робочим простором для систематизації знань у сфері вертеброневрології, остеопатії та актуалізації. Тут поєднується клінічний досвід, аналіз медичного дискурсу в соцмережах та підготовка просвітницьких матеріалів.
+### Formalization of systemic diagnostics in neurology and digital hygiene.
 
-## 🎯 Місія
-Захист пацієнтів (від немовлят до ветеранів) від наслідків фрагментарного "протокольного" підходу та агресивних некомпетентних маніпуляцій. Формування критичного мислення у батьків та пацієнтів.
-
-## 📚 Методологічний фундамент
-В основі роботи лежать принципи системної медицини та праці видатних вчителів:
-* **О. Ю. Ратнер** — патогенез натальних травм шийного відділу хребта та спинного мозку.
-* **М. С. Заноздра** — спадковість класичної терапевтичної школи та розуміння судинних ризиків.
-* **Е. Шостром** — концепція актуалізації як антипода маніпуляції в терапії.
-
-## 📂 Структура репозиторію
-* `/analysis` — деконструкція "доказового" нігілізму та розбір помилок у соціальних мережах (Digital Hygiene).
-* `/lectures` — тези виступів для громади (бібліотека Сковороди, парафії ПЦУ, публічні заходи).
-* `/pathogenesis` — переклади та адаптація монографій (зокрема Ратнера) для практичного застосування.
-
-## 🛡️ Digital Hygiene (Цифрова гігієна)
-GitHub використовується як інструмент фіксації версійності знань. Ми досліджуємо, як некоректна термінологія та відмова від вивчення патогенезу призводять до терапевтичної запущеності пацієнтів. 
+This repository is a digital workspace for systematizing knowledge in **vertebro-neurology** and **systemic medicine**. It integrates 30+ years of clinical experience with modern IT methods for clinical decision support.
 
 ---
-*Примітка: Усі клінічні кейси анонімізовані згідно з етичними стандартами медицини.*
+
+## 🧩 Project Goals & Mission
+* **Protection of Patients:** Shielding infants and veterans from the consequences of fragmented "protocol-based" approaches.
+* **Algorithmization:** Digitizing the systemic principles of **Prof. A. Ratner** (natal trauma) and **Prof. Karel Lewit**.
+* **Clinical Logic:** Transforming the heritage of **M. S. Zanozdra** and **E. Shostrom** into structured diagnostic rules.
+
+## 📂 Methodology & Structure
+* `/principles` — Core diagnostic algorithms based on systemic blood flow and pathogenesis.
+* `/analysis` (Digital Hygiene) — Deconstruction of "evidence-based" nihilism and discourse analysis in medical social media.
+* `/knowledge-base` — Theses for public lectures (Skovoroda Library, communities) and adaptations of monographs.
+
+## 🛡️ Digital Hygiene (Цифрова гігієна)
+GitHub is used here as a tool for **Knowledge Versioning**. We investigate how incorrect terminology and refusal to study pathogenesis lead to therapeutic neglect.
+
+---
+**Lead Clinical Expert:** Valentin Dobrovolsky (Systemic Clinician)
+*Note: All clinical cases are anonymized according to ethical standards.*
