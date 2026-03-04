@@ -445,7 +445,7 @@ Lesya Drohobetska
 Natali Cherniuk
 > я також противник вакцинації від грипу...  
 
-Наталя Наталя
+Наталя Наталя  
 ![image](.attachments/28dfc755e00de8f80574e5e9668a03ceaa95ca6a.webp)  
 
 Svitlana Kyshenko
