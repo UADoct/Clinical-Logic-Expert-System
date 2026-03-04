@@ -1,4 +1,5 @@
 Автор [Yaroslav Vus](https://www.facebook.com/yaroslav.vus)  
+https://www.facebook.com/yaroslav.vus/posts/pfbid0PYKMRMAR1mTFfqqnbVBwZ5frR4r7FsEMvQaHJJ2PGqyzsfcEao63JHHBgKBZ51Ztl
 <u>26 лютого 2026 р.; 19:13</u>  
 Чому ми так погано живемо і маємо стільки бід?
 
