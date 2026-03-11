@@ -7,8 +7,8 @@
 1. **[Case_Yackiv_Medical_Economics_Value.md](./Case_Yackiv_Medical_Economics_Value.md)**
    * **Тема:** Економіка медицини. Розбір «м’ясного еквіваленту» та аналіз вартості праці лікаря через призму соціальних маніпуляцій.
 
-2. **[Critique_Zhiravetsky_Populism_vs_EBM.md](./Critique_Zhiravetsky_Populism_vs_EBM.md)**
-   * **Тема:** Феномен «Цифрового Месії». Аналіз популярності порад, що суперечать доказам (антибіотики при вірусах, Німесил дітям).
+2. **[Case_Yackiv_Medical_Censorship_vs_PseudoExpertise.md](./Case_Yackiv_Medical_Censorship_vs_PseudoExpertise.md)**
+   * **Тема:** Інформаційна гігієна та цензура. Аналіз ризиків «Коралового клубу» та того, як обмеження на критику псевдоекспертів у соцмережах створюють безпечне середовище для медичного шахрайства.
 
 3. **[Case_Zhiravetsky_Cervical_Artery_Dissection.md](./Case_Zhiravetsky_Cervical_Artery_Dissection.md)**
    * **Тема:** Біомеханіка та анатомія. Чому ігнорування анатомічної варіативності судин при «хрускоті» шиєю веде до інсульту.
