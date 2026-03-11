@@ -13,7 +13,7 @@ This repository is a digital workspace for systematizing knowledge in **vertebro
 
 ## 📂 Methodology & Structure
 * `/principles` — Core diagnostic algorithms based on systemic blood flow and pathogenesis.
-* `/analysis` (Digital Hygiene) — Deconstruction of "evidence-based" nihilism and discourse analysis in medical social media.
+* — **[Clinical Case Studies & Digital Hygiene](./Cases) — Deconstruction of "evidence-based" nihilism and discourse analysis in medical social media.
 * `/knowledge-base` — Theses for public lectures (Skovoroda Library, communities) and adaptations of monographs.
 
 ## 🛡️ Digital Hygiene (Цифрова гігієна)
